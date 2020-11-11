@@ -7,3 +7,4 @@
 
 ![Persona 2](https://user-images.githubusercontent.com/72778213/98742630-9dbbd800-2363-11eb-9bf8-283b6f847b66.jpg)
 ![Empath Chart 2](https://user-images.githubusercontent.com/72778213/98747092-a9ab9800-236b-11eb-92ca-95f49ebbf0dd.jpg)
+![Scenarios 2](https://user-images.githubusercontent.com/72778213/98753370-082b4300-2379-11eb-980f-7b53e333417d.jpg)
