@@ -8,4 +8,4 @@
 ![Persona 2](https://user-images.githubusercontent.com/72778213/98742630-9dbbd800-2363-11eb-9bf8-283b6f847b66.jpg)
 ![Empath Chart 2](https://user-images.githubusercontent.com/72778213/98747092-a9ab9800-236b-11eb-92ca-95f49ebbf0dd.jpg)
 ![Scenarios 2](https://user-images.githubusercontent.com/72778213/98753370-082b4300-2379-11eb-980f-7b53e333417d.jpg)
-![Journey Map 2](https://user-images.githubusercontent.com/72778213/98754591-e5e6f480-237b-11eb-8c1c-d8fe40d8f319.jpg)
+![Journey Map 2](https://user-images.githubusercontent.com/72778213/98754753-31010780-237c-11eb-898c-ae2f9eb54348.jpg)
